@@ -1,0 +1,27 @@
+{
+	// See http://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		"johnpapa.Angular2",
+		"ledragon.d3-helpers-snippets",
+		"msjsdiag.debugger-for-chrome",
+		"joelday.docthis",
+		"donjayamanne.githistory",
+		"lukehoban.Go",
+		"AndersEAndersen.html-class-suggestions",
+		"ms-vscode.typescript-javascript-grammar",
+		"Telerik.nativescript",
+		"wwwalkerrun.nativescript-ng2-snippets",
+		"ktriek.ng-bootstrap-snippets",
+		"christian-kohler.npm-intellisense",
+		"okazuki.okazukiplantuml",
+		"christian-kohler.path-intellisense",
+		"odonno.pomodoro-code",
+		"humao.rest-client",
+		"seanmcbreen.Spell",
+		"lihui.vs-color-picker",
+		"WakaTime.vscode-wakatime",
+		"eg2.tslint",
+		"dbaeumer.vscode-eslint"
+	]
+}
